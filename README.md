@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sjia03
-- 👀 I’m interested in using STEM skills to create a meaningful impact on society.
-- 🌱 I’m currently learning how to code in Python, JAVA, HTML, and CSS.
-- 💞️ I’m looking to collaborate on data related projects.
-- 📫 Reach me through my email sjia@ucsb.edu
+## 👋 Hi, I’m Stella Jia 
+I'm a freshmen at UCSB studying Statistics and Data Science. I'm interested in utilizing data science to create a positive social impact at the intersection of the STEM and humanities. 
+
+📫 Feel free to reach out through my email sjia@ucsb.edu
 
 <!---
 sjia03/sjia03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
