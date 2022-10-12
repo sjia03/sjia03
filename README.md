@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Stella Jia 
-I'm a freshmen at UCSB studying Statistics and Data Science. I'm interested in utilizing data science to create a positive social impact at the intersection of the STEM and humanities. 
+I'm a second-year at UCSB studying Statistics and Data Science. I'm interested in utilizing data science to create a positive social impact at the intersection of the STEM and humanities. 
 
 📫 Feel free to reach out through my email sjia@ucsb.edu
 
