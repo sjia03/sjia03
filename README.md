@@ -1,7 +1,20 @@
 ## 👋 Hi, I’m Stella Jia 
-I'm a second-year at UCSB studying Statistics and Data Science. I'm interested in utilizing data science to create a positive social impact at the intersection of the STEM and humanities. 
+Currently, I am a second-year pursuing a B.S. in Statistics & Data Science at University of California, Santa Barbara. My fields of interest include neuroscience, urban air mobility, and digital humanities. My programming skillset includes Python, R, SQL, and Tableau. 
 
-📫 Feel free to reach out through my email sjia@ucsb.edu
+### 🚀 Now
+* Data Visualization Intern @ NASA Langley Research Center
+* Data Editor @ Daily Nexus
+* Undergraduate Learning Assistant @ CS9: Intermediate Python
+
+### 🌲 Before
+* Data Science Intern @ Apex146
+* Research Assistant @ Sensory Systems and Behavior Lab
+
+### 📫 Connect
+* Linkedin: https://www.linkedin.com/in/stellajia/
+* Website: https://stellajia.super.site
+* Main Email: jiastella99@gmail.com 
+* Alternate Email: sjia@ucsb.edu
 
 <!---
 sjia03/sjia03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
