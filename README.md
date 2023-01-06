@@ -8,11 +8,11 @@ Currently, I am a second-year pursuing a B.S. in Statistics & Data Science at Un
 
 ### 🌲 Before
 * Data Science Intern @ Apex146
-* Research Assistant @ Sensory Systems and Behavior Lab
+* Research Assistant @ UCSB Sensory Systems and Behavior Lab
+* Research Assistant @ UC Berkeley Computational Approaches to Human Learning Lab
 
 ### 📫 Connect
 * Linkedin: https://www.linkedin.com/in/stellajia/
-* Website: https://stellajia.super.site
 * Main Email: jiastella99@gmail.com 
 * Alternate Email: sjia@ucsb.edu
 
