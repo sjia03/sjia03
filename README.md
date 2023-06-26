@@ -1,12 +1,13 @@
 ## 👋 Hi, I’m Stella Jia 
-Currently, I am a second-year pursuing a B.S. in Statistics & Data Science at University of California, Santa Barbara. My fields of interest include neuroscience, urban air mobility, and digital humanities. My programming skillset includes Python, R, SQL, and Tableau. 
+Currently, I am a third-year pursuing a  B.A. in Data Science at UC Berkeley. My fields of interest include neuroscience, urban air mobility, and digital humanities. My programming skillset includes Python, R, SQL, and Tableau. 
 
 ### 🚀 Now
-* Data Visualization Intern @ NASA Langley Research Center
-* Data Editor @ Daily Nexus
-* Undergraduate Learning Assistant @ CS9: Intermediate Python
+* Research Fellow @ Harvard Business School
 
 ### 🌲 Before
+* Data Visualization Intern @ NASA Langley Research Center
+* Data Editor @ Daily Nexus
+* Undergraduate Teaching Assistant @ CS9: Intermediate Python
 * Data Science Intern @ Apex146
 * Research Assistant @ UCSB Sensory Systems and Behavior Lab
 * Research Assistant @ UC Berkeley Computational Approaches to Human Learning Lab
