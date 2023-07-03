@@ -15,7 +15,7 @@ Currently, I am a third-year pursuing a  B.A. in Data Science at UC Berkeley. My
 ### 📫 Connect
 * Linkedin: https://www.linkedin.com/in/stellajia/
 * Main Email: jiastella99@gmail.com 
-* Alternate Email: sjia03@berkeley.edu
+* Alternate Email: stellajia@berkeley.edu
 
 <!---
 sjia03/sjia03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
