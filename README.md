@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Stella Jia 
-Currently, I am a third-year pursuing a  B.A. in Data Science at UC Berkeley. My fields of interest include neuroscience, urban air mobility, and digital humanities. My programming skillset includes Python, R, SQL, and Tableau. 
+Currently, I am a third-year pursuing a  B.A. in Data Science at UC Berkeley. My fields of interest include innovation, decision science, and digital humanities. My programming skillset includes Python, R, SQL, and Tableau. 
 
 ### 🚀 Now
 * Research Fellow @ Harvard Business School
