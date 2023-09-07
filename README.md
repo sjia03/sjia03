@@ -7,7 +7,7 @@ Currently, I am a third-year pursuing a  B.A. in Data Science at UC Berkeley. My
 ### 🌲 Before
 * Data Visualization Intern @ NASA Langley Research Center
 * Data Editor @ Daily Nexus
-* Undergraduate Teaching Assistant @ CS9: Intermediate Python
+* Undergraduate Teaching Assistant @ CS9: Data Structures in Python
 * Data Science Intern @ Apex146
 * Research Assistant @ UCSB Sensory Systems and Behavior Lab
 * Research Assistant @ UC Berkeley Computational Approaches to Human Learning Lab
