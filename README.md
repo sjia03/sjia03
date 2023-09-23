@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Stella Jia 
 Currently, I am a third-year pursuing a  B.A. in Data Science at UC Berkeley. My fields of interest include innovation, knowledge management, generative AI, and digital humanities. My programming skillset includes Python, R, SQL, and Tableau. 
 
-### 🚀 Now
+### 🚀 Currently
 * Research Assistant @ UC Berkeley: Data Innovation Lab
 * Research Assistant @ Harvard Business School: Digital Data Design Institute
 
