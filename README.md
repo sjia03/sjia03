@@ -3,7 +3,7 @@ Currently, I am a third-year pursuing a  B.A. in Data Science at UC Berkeley. My
 
 ### 🚀 Now
 * Research Assistant @ UC Berkeley: Data Innovation Lab
-* Research Assistant @ Harvard Business School
+* Research Assistant @ Harvard Business School: Digital Data Design Institute
 
 ### 🌲 Before
 * Data Visualization Intern @ NASA Langley Research Center
