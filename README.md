@@ -3,9 +3,11 @@ Currently, I am a senior pursuing a  B.A. in Data Science at UC Berkeley. My fie
 
 ### 🚀 Currently
 * Research Assistant @ UC Berkeley: Data Innovation Lab
-* Research Assistant @ Harvard Business School: Digital Data Design Institute
+
 
 ### 🌲 Before
+* Business Intelligence Engineer Intern @ Amazon
+* Research Assistant @ Harvard Business School: Digital Data Design Institute
 * Data Science Intern @ NASA Langley Research Center
 * Data Editor @ Daily Nexus
 * Undergraduate Teaching Assistant @ CS9: Data Structures in Python
